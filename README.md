@@ -8,8 +8,8 @@ Entendendo Plotly > https://www.kaggle.com/kanncaa1/plotly-tutorial-for-beginner
 Entendendo Seaborn > https://www.kaggle.com/kanncaa1/seaborn-tutorial-for-beginners
 
 Entendendo Interactive Bokeh > Parte 1 - https://www.kaggle.com/kanncaa1/interactive-bokeh-tutorial-part-1
-                             
-                             > Parte 2 - https://www.kaggle.com/kanncaa1/interactive-bokeh-tutorial-part-2
+
+Entendendo Interactive Bokeh > Parte 2 - https://www.kaggle.com/kanncaa1/interactive-bokeh-tutorial-part-2
 
 Entendendo Rare Visualization Tools > https://www.kaggle.com/kanncaa1/rare-visualization-tools
 
